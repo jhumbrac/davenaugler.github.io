@@ -1,0 +1,27 @@
+* { margin:0; padding:0; box-sizing:border-box;}
+
+
+body {
+	background: url(images/firehouse.jpg) #52596b no-repeat;
+	background-size: cover;
+	color: #000;
+	text-align: center;
+}
+
+h2{
+	font-family: 'Lato', sans-serif;
+	font-size: 100px;
+}
+
+p {
+	font-family: Adobe Hebrew;
+	text-align: center;
+	font-size: 35px;
+}
+
+#top {
+	background-color: #fff;
+	opacity:0.45;
+	margin-top: 10%;
+	width: 100%;
+}
